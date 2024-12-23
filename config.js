@@ -23,10 +23,10 @@ const CONFIG = {
   imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: '早上好!',
+	greetingAfternoon: '下午好,',
+	greetingEvening: '晚上好,',
+	greetingNight: '去睡觉!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
